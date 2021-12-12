@@ -1,6 +1,5 @@
 # shavit-styles
-styles for shavit's timer
 
-Styles for Shavit's timer (CS:S BHOP)
+## This file was the old Australis's server styles file. You can use it for your server.
 
-You can fork it and add some new styles if you want^^
+### Thanks to duhova vila for ideas
